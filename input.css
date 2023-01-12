@@ -24,16 +24,11 @@
 }
 
 body {
-  background-image: url('../images/bg-header-desktop.png');
-  background-repeat: no-repeat;
-  background-size: contain;
-  background: #fdfbf9;
+  background: #f8f5f3;
 }
 
-@media (max-width: 576px) {
-  body {
-    background: #fdfbf9;
-  }
+footer {
+  background: #f8e7d7;
 }
 
 .ficon:hover {
